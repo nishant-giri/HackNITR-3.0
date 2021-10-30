@@ -150,7 +150,7 @@ Head_lable.grid(row = 0 ,column = 0 )
 
 
 
-button_2 = Button(Main_frame , text = "Send Meassege", font = font_Button_property , bg = "#C4C4C4" , pady=20 , padx = 55 , borderwidth= 3, relief=SOLID,command = Send)
+button_2 = Button(Main_frame , text = "Send Message", font = font_Button_property , bg = "#C4C4C4" , pady=20 , padx = 55 , borderwidth= 3, relief=SOLID,command = Send)
 button_2.bind("<Return>", Send)
 button_2.grid(row = 2 ,column = 0 , pady = 10)
 
