@@ -20,7 +20,7 @@ The painful sight of seeing a motor neuron patient is heartbreaking. Motor neuro
 # Screenshots
 
 ### Software
-![App Screenshot](https://user-images.githubusercontent.com/51821426/139543214-22af4779-69f2-4121-8217-74779dae407f.PNG)
+![App Screenshot](https://user-images.githubusercontent.com/51821426/139554904-141e3330-0ab8-4093-ace4-64045f9e2474.PNG)
 ### Hardware
 ![App Screenshot](https://user-images.githubusercontent.com/51821426/139543234-a4490620-f200-4dae-bce1-9fe440d67428.jpeg)
 
