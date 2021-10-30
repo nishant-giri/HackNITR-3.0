@@ -40,3 +40,12 @@ The painful sight of seeing a motor neuron patient is heartbreaking. Motor neuro
 - Library: Tkinter
 
 ![Twilio](https://user-images.githubusercontent.com/71482077/139557318-a0d253b5-5566-4dac-94a2-ff3a745f0c9e.png)
+
+---
+
+## Contributors
+
+- [Faizan Alam](https://github.com/Faizan-Alam-1 "View Profile")
+- [Mitali Garg](https://github.com/Mitali-13 "View Profile")
+- [Nishant Giri](https://github.com/nishant-giri "View Profile")
+- [Simran Verma](https://github.com/Simranverma123 "View Profile")
